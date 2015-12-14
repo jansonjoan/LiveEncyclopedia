@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.janson.imdemo.model;
+package com.janson.liveencyclopedia.model;
 
-import com.janson.imdemo.R;
+import com.janson.liveencyclopedia.R;
 
 import java.util.Random;
 

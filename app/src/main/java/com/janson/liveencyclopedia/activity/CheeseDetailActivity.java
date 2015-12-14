@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.janson.imdemo.activity;
+package com.janson.liveencyclopedia.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -25,8 +25,8 @@ import android.view.Menu;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
-import com.janson.imdemo.R;
-import com.janson.imdemo.model.Cheeses;
+import com.janson.liveencyclopedia.R;
+import com.janson.liveencyclopedia.model.Cheeses;
 
 public class CheeseDetailActivity extends AppCompatActivity {
 

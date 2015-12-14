@@ -1,12 +1,12 @@
-package com.janson.imdemo.activity;
+package com.janson.liveencyclopedia.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 
-import com.janson.imdemo.MainActivity;
-import com.janson.imdemo.R;
+import com.janson.liveencyclopedia.MainActivity;
+import com.janson.liveencyclopedia.R;
 
 /**
  * Created by janson on 15-12-11.

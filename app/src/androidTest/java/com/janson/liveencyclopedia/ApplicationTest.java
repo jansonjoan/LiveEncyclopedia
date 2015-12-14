@@ -1,4 +1,4 @@
-package com.janson.imdemo;
+package com.janson.liveencyclopedia;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

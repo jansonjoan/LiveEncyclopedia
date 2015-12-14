@@ -1,4 +1,4 @@
-package com.janson.imdemo.activity;
+package com.janson.liveencyclopedia.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -9,8 +9,8 @@ import android.os.Message;
 import android.util.Log;
 import android.widget.ImageView;
 
-import com.janson.imdemo.MainActivity;
-import com.janson.imdemo.R;
+import com.janson.liveencyclopedia.MainActivity;
+import com.janson.liveencyclopedia.R;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

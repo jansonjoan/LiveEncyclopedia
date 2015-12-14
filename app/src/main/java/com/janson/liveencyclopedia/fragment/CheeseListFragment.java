@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.janson.imdemo.fragment;
+package com.janson.liveencyclopedia.fragment;
 
 import android.content.Context;
 import android.content.Intent;
@@ -31,9 +31,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.janson.imdemo.R;
-import com.janson.imdemo.activity.CheeseDetailActivity;
-import com.janson.imdemo.model.Cheeses;
+import com.janson.liveencyclopedia.R;
+import com.janson.liveencyclopedia.activity.CheeseDetailActivity;
+import com.janson.liveencyclopedia.model.Cheeses;
 
 import java.util.ArrayList;
 import java.util.List;
